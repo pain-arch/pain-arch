@@ -21,6 +21,13 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
 </div>
 
+  <!--x axis divider-->
+<img src="/horizontal-divider-gradient.gif">
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=pain-arch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  </div>
+
 <!--x axis divider-->
 <img src="/horizontal-divider-gradient.gif">
 
@@ -36,11 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pain-arch&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-  <!--x axis divider-->
-<img src="/horizontal-divider-gradient.gif">
 
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=pain-arch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  </div>
 
 ###
