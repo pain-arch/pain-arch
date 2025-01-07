@@ -25,8 +25,8 @@
 <img src="/horizontal-divider-gradient.gif">
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pain-arch&theme=dark&border_radius=5&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
-  </div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pain-arch&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
 
 <!--x axis divider-->
 <img src="/horizontal-divider-gradient.gif">
